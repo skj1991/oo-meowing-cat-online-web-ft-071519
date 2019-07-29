@@ -1,7 +1,2 @@
-class end = Struct.new(:attr_names) do
-  def method_name
-
-  end
-
-
+class Cat
 end
